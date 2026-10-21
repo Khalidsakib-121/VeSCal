@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the associated VeSCal manuscript and the ESS-DIVE source dataset."
+title: "VeSCal: Calibrated Multimodel Fusion for Fine-Grained Vegetation Community Mapping"
+type: software
+authors:
+  - family-names: Datta
+    given-names: Dristi
+  - family-names: Sakib
+    given-names: Md Khalid Hasan
+  - family-names: Paul
+    given-names: Manoranjan
+  - family-names: White
+    given-names: Davina
+version: 1.0.0
